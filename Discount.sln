@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discount", "Discount\Discount.csproj", "{422B736E-05F4-4147-8DC7-A0FAE8183685}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Discount", "Discount\Discount.csproj", "{422B736E-05F4-4147-8DC7-A0FAE8183685}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rock-Paper-Scissors", "Rock-Paper-Scissors\Rock-Paper-Scissors.csproj", "{B6EE304B-26A2-4444-982B-B39154F3E8C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rock-Paper-Scissors", "Rock-Paper-Scissors\Rock-Paper-Scissors.csproj", "{B6EE304B-26A2-4444-982B-B39154F3E8C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANDOperator", "ANDOperator\ANDOperator.csproj", "{A210BE27-0475-4686-AA4A-6ACD0585BF44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OROperator", "OROperator\OROperator.csproj", "{113B3ACD-5F71-48EE-B296-BC32286F99C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{B6EE304B-26A2-4444-982B-B39154F3E8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6EE304B-26A2-4444-982B-B39154F3E8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6EE304B-26A2-4444-982B-B39154F3E8C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A210BE27-0475-4686-AA4A-6ACD0585BF44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A210BE27-0475-4686-AA4A-6ACD0585BF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A210BE27-0475-4686-AA4A-6ACD0585BF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A210BE27-0475-4686-AA4A-6ACD0585BF44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{113B3ACD-5F71-48EE-B296-BC32286F99C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113B3ACD-5F71-48EE-B296-BC32286F99C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113B3ACD-5F71-48EE-B296-BC32286F99C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113B3ACD-5F71-48EE-B296-BC32286F99C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
