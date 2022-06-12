@@ -1,0 +1,16 @@
+C:\Users\slupi\source\repos\Discount\Rock-Paper-Scissors\bin\Debug\net5.0\Rock-Paper-Scissors.exe
+C:\Users\slupi\source\repos\Discount\Rock-Paper-Scissors\bin\Debug\net5.0\Rock-Paper-Scissors.deps.json
+C:\Users\slupi\source\repos\Discount\Rock-Paper-Scissors\bin\Debug\net5.0\Rock-Paper-Scissors.runtimeconfig.json
+C:\Users\slupi\source\repos\Discount\Rock-Paper-Scissors\bin\Debug\net5.0\Rock-Paper-Scissors.runtimeconfig.dev.json
+C:\Users\slupi\source\repos\Discount\Rock-Paper-Scissors\bin\Debug\net5.0\Rock-Paper-Scissors.dll
+C:\Users\slupi\source\repos\Discount\Rock-Paper-Scissors\bin\Debug\net5.0\ref\Rock-Paper-Scissors.dll
+C:\Users\slupi\source\repos\Discount\Rock-Paper-Scissors\bin\Debug\net5.0\Rock-Paper-Scissors.pdb
+C:\Users\slupi\source\repos\Discount\Rock-Paper-Scissors\obj\Debug\net5.0\Rock-Paper-Scissors.csproj.AssemblyReference.cache
+C:\Users\slupi\source\repos\Discount\Rock-Paper-Scissors\obj\Debug\net5.0\Rock-Paper-Scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slupi\source\repos\Discount\Rock-Paper-Scissors\obj\Debug\net5.0\Rock-Paper-Scissors.AssemblyInfoInputs.cache
+C:\Users\slupi\source\repos\Discount\Rock-Paper-Scissors\obj\Debug\net5.0\Rock-Paper-Scissors.AssemblyInfo.cs
+C:\Users\slupi\source\repos\Discount\Rock-Paper-Scissors\obj\Debug\net5.0\Rock-Paper-Scissors.csproj.CoreCompileInputs.cache
+C:\Users\slupi\source\repos\Discount\Rock-Paper-Scissors\obj\Debug\net5.0\Rock-Paper-Scissors.dll
+C:\Users\slupi\source\repos\Discount\Rock-Paper-Scissors\obj\Debug\net5.0\ref\Rock-Paper-Scissors.dll
+C:\Users\slupi\source\repos\Discount\Rock-Paper-Scissors\obj\Debug\net5.0\Rock-Paper-Scissors.pdb
+C:\Users\slupi\source\repos\Discount\Rock-Paper-Scissors\obj\Debug\net5.0\Rock-Paper-Scissors.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\slupi\source\repos\Discount\Discount\bin\Debug\net5.0\Discount.exe
+C:\Users\slupi\source\repos\Discount\Discount\bin\Debug\net5.0\Discount.deps.json
+C:\Users\slupi\source\repos\Discount\Discount\bin\Debug\net5.0\Discount.runtimeconfig.json
+C:\Users\slupi\source\repos\Discount\Discount\bin\Debug\net5.0\Discount.runtimeconfig.dev.json
+C:\Users\slupi\source\repos\Discount\Discount\bin\Debug\net5.0\Discount.dll
+C:\Users\slupi\source\repos\Discount\Discount\bin\Debug\net5.0\ref\Discount.dll
+C:\Users\slupi\source\repos\Discount\Discount\bin\Debug\net5.0\Discount.pdb
+C:\Users\slupi\source\repos\Discount\Discount\obj\Debug\net5.0\Discount.csproj.AssemblyReference.cache
+C:\Users\slupi\source\repos\Discount\Discount\obj\Debug\net5.0\Discount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slupi\source\repos\Discount\Discount\obj\Debug\net5.0\Discount.AssemblyInfoInputs.cache
+C:\Users\slupi\source\repos\Discount\Discount\obj\Debug\net5.0\Discount.AssemblyInfo.cs
+C:\Users\slupi\source\repos\Discount\Discount\obj\Debug\net5.0\Discount.csproj.CoreCompileInputs.cache
+C:\Users\slupi\source\repos\Discount\Discount\obj\Debug\net5.0\Discount.dll
+C:\Users\slupi\source\repos\Discount\Discount\obj\Debug\net5.0\ref\Discount.dll
+C:\Users\slupi\source\repos\Discount\Discount\obj\Debug\net5.0\Discount.pdb
+C:\Users\slupi\source\repos\Discount\Discount\obj\Debug\net5.0\Discount.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discount", "Discount\Discount.csproj", "{422B736E-05F4-4147-8DC7-A0FAE8183685}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rock-Paper-Scissors", "Rock-Paper-Scissors\Rock-Paper-Scissors.csproj", "{B6EE304B-26A2-4444-982B-B39154F3E8C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{422B736E-05F4-4147-8DC7-A0FAE8183685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422B736E-05F4-4147-8DC7-A0FAE8183685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422B736E-05F4-4147-8DC7-A0FAE8183685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422B736E-05F4-4147-8DC7-A0FAE8183685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6EE304B-26A2-4444-982B-B39154F3E8C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6EE304B-26A2-4444-982B-B39154F3E8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6EE304B-26A2-4444-982B-B39154F3E8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6EE304B-26A2-4444-982B-B39154F3E8C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C46A885A-7D2D-4890-A15F-4EBCB0F80934}
+	EndGlobalSection
+EndGlobal
